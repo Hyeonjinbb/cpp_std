@@ -60,5 +60,38 @@
     <ClCompile Include="..\..\..\Users\guswl\source\repos\Project4\Project4\~value.cpp">
       <Filter>소스 파일\1~3일차</Filter>
     </ClCompile>
+    <ClCompile Include="array.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="array_address.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="array_pointer_1.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="array_and_pointer_2.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="array_pointer_3.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="new_and_delete.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic_memory_bakery.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="function.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="arguments_value.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="arguments_pointer.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="arguments_array.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
