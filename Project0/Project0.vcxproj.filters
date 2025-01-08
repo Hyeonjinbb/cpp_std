@@ -13,5 +13,52 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\1~3일차">
+      <UniqueIdentifier>{603298b4-b8e4-49dc-9589-f7aef54349b9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\Users\guswl\source\repos\Hyeonjinbb\_cpp\소스1.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\guswl\source\repos\Hyeonjinbb\_cpp\소스2.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\guswl\source\repos\Hyeonjinbb\_cpp\소스3.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\guswl\source\repos\Hyeonjinbb\_cpp\소스4.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\guswl\source\repos\Project4\Project4\if2.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\guswl\source\repos\Project4\Project4\if.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\guswl\source\repos\Project4\Project4\distance.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\guswl\source\repos\Project4\Project4\bitwise+shift.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\guswl\source\repos\Project4\Project4\aandbcpp.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\guswl\source\repos\Project4\Project4\++a_b++.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\guswl\source\repos\Project4\Project4\XOR.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\guswl\source\repos\Project4\Project4\recycle.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\guswl\source\repos\Project4\Project4\operator_precedence.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\guswl\source\repos\Project4\Project4\~value.cpp">
+      <Filter>소스 파일\1~3일차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
